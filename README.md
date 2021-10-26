@@ -1,6 +1,6 @@
 # Sample Code for "Pessimism Meets Invariance: Provably Efficient Offline Mean-Field Multi-Agent RL"
 
-This is the official codebase for Pessimism Meets Invariance: Provably Efficient Offline Mean-Field Multi-Agent RL. Here, we provide a sample implementation of SAFARI on the cooperative navigation environment. Refer to `agents/safari.py`.
+This is the official codebase for Pessimism Meets Invariance: Provably Efficient Offline Mean-Field Multi-Agent RL. Here, we provide a sample implementation of SAFARI on the cooperative navigation environment. This specific repository is untested; however, many of the given files match the code used to run experiments in the paper exactly. Refer to `agents/safari.py`.
 
 ## Requirements
 
